@@ -1,7 +1,7 @@
 # NYC_SCHOOLS
 
 ## Introduction
-This project is a based on a collaboration between Manoranjan Kumar (me) /Gary Sepulveda as
+This project is a based on a collaboration between Manoranjan Kumar /Gary Sepulveda (me) as
 part of a final project in the University of Texas @ San Antonio Master of Science Data Analytics
 program. We chose a current (as of 8/7/18) Kaggle challenge (PASSNYC) as our topic. This basically is a
 challenge in the NYC school district to ultimately help underserved student achieve academic success by
